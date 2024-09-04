@@ -1,2 +1,2 @@
 # kata-encryptic
-Kata - minimal password manager in golanc
+Kata - minimal password manager in golang
